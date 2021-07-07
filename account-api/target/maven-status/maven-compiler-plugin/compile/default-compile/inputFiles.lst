@@ -1,0 +1,15 @@
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/EmailConfirmation.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/AccountList.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/ListAccountResponse.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/SyncUserRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/AccountConstant.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/GenericAccountResponse.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/CreateAccountRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/EmailChangeRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/VerifyPasswordRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/client/AccountClient.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/TrackEventRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/UpdatePasswordRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/GetOrCreateRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/PasswordResetRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/AccountDto.java

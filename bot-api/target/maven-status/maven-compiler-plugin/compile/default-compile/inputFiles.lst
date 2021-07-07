@@ -1,0 +1,9 @@
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertChangedShiftRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/dto/OnboardWorkerRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/dto/GreetingRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertNewShiftsRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertRemovedShiftRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/client/BotClient.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/BotConstant.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertRemovedShiftsRequest.java
+/Users/mikeliu/JavaProjects/staffjoy/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertNewShiftRequest.java

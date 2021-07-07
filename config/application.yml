@@ -1,0 +1,14 @@
+# store your development credentials for spring app here
+# this file should and will not be checked into version control
+staffjoy:
+  common:
+    sentry-dsn: https://80bbf4ae778b525f9fe72e2813cd5246@sentry.io/1271087
+  signing-secret: YOUR-SIGNING-SECRET
+  intercom-access-token: YOUR-INTERCOM-ACCESS-TOKEN
+  aliyun-access-key: LTAI4FzgpSBotpTP6rh8b2sM
+  aliyun-access-secret: IowN2xIilNutqhz9SMvfGc8ZretXZs
+  aliyun-sms-sign-name: staffjoy
+  intercom-app-id: staffjoy
+  intercom-signing-secret: staffjoy
+  recaptcha-public: staffjoy
+  recaptcha-private: staffjoy

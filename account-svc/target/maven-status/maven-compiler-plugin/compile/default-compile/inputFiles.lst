@@ -1,0 +1,11 @@
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/controller/AccountController.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/repo/AccountRepo.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/model/AccountSecret.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/model/Account.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/service/AccountService.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/props/AppProps.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/AccountApplication.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/config/SwaggerConfig.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/repo/AccountSecretRepo.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/config/AppConfig.java
+/Users/mikeliu/JavaProjects/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/service/helper/ServiceHelper.java
